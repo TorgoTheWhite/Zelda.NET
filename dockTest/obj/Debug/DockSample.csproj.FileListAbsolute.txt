@@ -1,0 +1,17 @@
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\ResolveAssemblyReference.cache
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.AboutDialog.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.DummyDoc.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.DummyOutputWindow.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.DummyPropertyWindow.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.DummySolutionExplorer.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.DummyTaskList.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.DummyToolbox.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.MainForm.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.Properties.Resources.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.MainForm2.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.Customization.Resources.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.Customization.Strings.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\DockSample.ToolWindow.resources
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\GenerateResource.read.1.tlog
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\GenerateResource.write.1.tlog
+H:\game\lib\dockpanelsuite-master\DockSample\obj\Debug\GenerateResource.read.4.tlog

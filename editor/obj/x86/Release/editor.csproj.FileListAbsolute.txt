@@ -1,0 +1,17 @@
+H:\game\editor\obj\x86\Release\ResolveAssemblyReference.cache
+H:\game\editor\obj\x86\Release\editor.Splash.resources
+H:\game\editor\obj\x86\Release\GenerateResource.read.1.tlog
+H:\game\editor\obj\x86\Release\GenerateResource.write.1.tlog
+H:\game\editor\bin\Release\editor.exe
+H:\game\editor\obj\x86\Release\editor.exe
+H:\game\editor\obj\x86\Release\editor.MainForm.resources
+H:\game\editor\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+H:\game\editor\obj\x86\Release\editor.GamePanel.resources
+H:\game\editor\obj\x86\Release\GenerateResource.read.4.tlog
+H:\game\editor\bin\Release\engine.exe
+H:\game\editor\bin\Release\SdlDotNet.dll
+H:\game\editor\bin\Release\Noesis.Javascript.dll
+H:\game\editor\bin\Release\Tao.Sdl.dll
+H:\game\editor\bin\Release\engine.pdb
+H:\game\editor\bin\Release\SdlDotNet.xml
+H:\game\editor\bin\Release\Tao.Sdl.xml

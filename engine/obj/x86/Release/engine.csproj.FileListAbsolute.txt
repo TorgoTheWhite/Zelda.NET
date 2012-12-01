@@ -1,0 +1,13 @@
+H:\game\engine\bin\Release\engine.exe
+H:\game\engine\bin\Release\engine.pdb
+H:\game\engine\bin\Release\Noesis.Javascript.dll
+H:\game\engine\bin\Release\SdlDotNet.dll
+H:\game\engine\bin\Release\Tao.Sdl.dll
+H:\game\engine\bin\Release\SdlDotNet.xml
+H:\game\engine\bin\Release\Tao.Sdl.xml
+H:\game\engine\obj\x86\Release\ResolveAssemblyReference.cache
+H:\game\engine\obj\x86\Release\engine.Properties.Resources.resources
+H:\game\engine\obj\x86\Release\GenerateResource.read.1.tlog
+H:\game\engine\obj\x86\Release\GenerateResource.write.1.tlog
+H:\game\engine\obj\x86\Release\engine.exe
+H:\game\engine\obj\x86\Release\engine.pdb

@@ -1,0 +1,16 @@
+H:\Zelda.NET\editor\bin\Debug\editor.exe
+H:\Zelda.NET\editor\bin\Debug\editor.pdb
+H:\Zelda.NET\editor\bin\Debug\engine.exe
+H:\Zelda.NET\editor\bin\Debug\SdlDotNet.dll
+H:\Zelda.NET\editor\bin\Debug\Noesis.Javascript.dll
+H:\Zelda.NET\editor\bin\Debug\Tao.Sdl.dll
+H:\Zelda.NET\editor\bin\Debug\SdlDotNet.xml
+H:\Zelda.NET\editor\bin\Debug\Tao.Sdl.xml
+H:\Zelda.NET\editor\obj\Debug\ResolveAssemblyReference.cache
+H:\Zelda.NET\editor\obj\Debug\editor.MainForm.resources
+H:\Zelda.NET\editor\obj\Debug\editor.Splash.resources
+H:\Zelda.NET\editor\obj\Debug\GenerateResource.read.1.tlog
+H:\Zelda.NET\editor\obj\Debug\GenerateResource.write.1.tlog
+H:\Zelda.NET\editor\obj\Debug\editor.exe
+H:\Zelda.NET\editor\obj\Debug\editor.pdb
+H:\Zelda.NET\editor\obj\Debug\GenerateResource.read.3.tlog

@@ -1,0 +1,6 @@
+H:\Zelda.NET\engine\obj\Debug\ResolveAssemblyReference.cache
+H:\Zelda.NET\engine\obj\Debug\engine.Properties.Resources.resources
+H:\Zelda.NET\engine\obj\Debug\GenerateResource.read.1.tlog
+H:\Zelda.NET\engine\obj\Debug\GenerateResource.write.1.tlog
+H:\Zelda.NET\bin\engine.exe
+H:\Zelda.NET\engine\obj\Debug\engine.exe
